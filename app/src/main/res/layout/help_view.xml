@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/appCompatTextView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fontFamily="sans-serif-condensed-medium"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:scaleY="1"
+    android:shadowColor="#6B136F"
+    android:shadowDx="-1"
+    android:shadowDy="-2"
+    android:shadowRadius="3"
+    android:text=" Hello there,  In order to win you want to land 3 of one kind of animal.     You will get 100 points for every fox you land on.      Also If you want to change the background press one of the buttons below.      May luck favor your slots."
+    android:textAlignment="center"
+    android:textColor="#DDA83D"
+    android:textSize="30sp"
+    android:textStyle="bold|italic"
+    tools:context=".goal">
+
+
+</androidx.appcompat.widget.AppCompatTextView>
